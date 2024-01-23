@@ -22,11 +22,11 @@
 > -  [向日葵官网下载地址](https://sunlogin.oray.com/download?categ=personal) 本机识别码 验证码 截图给我
 
 <img src="https://picshack.net/ib/WyNbcH2GuU.png" width="" />
-----
+
 <img src="https://picshack.net/ib/FURsAvgdKj.png" width="" />
-- 
+ 
 <img src="https://picshack.net/ib/jmmI6QJQJK.png" width="" />
--
+
 
 
 
