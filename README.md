@@ -27,7 +27,7 @@
 
 <img src="/img/gm.png" width="" />
 
-<img src="/img/aom.png" width="" />
+<img src="http://mao.2091k.cn/img/aom.png" width="" />
  
 <img src="/img/x.png" width="" />
 
