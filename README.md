@@ -85,7 +85,7 @@
 <img src="/img/l.png" width="" />
 
 
-<img src="/img/lyq.png" width="50%" /><img src="/img/LC-HX1800.png" width="50%" />
+<img src="/img/lyq.jpg" width="50%" /><img src="/img/LC-HX1800.png" width="50%" />
 
 
 ----
