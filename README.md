@@ -27,9 +27,9 @@
 
 <img src="/img/gm.png" width="" />
 
-<img src="https://picshack.net/ib/FURsAvgdKj.png" width="" />
+<img src="/img/aom.png" width="" />
  
-<img src="https://picshack.net/ib/jmmI6QJQJK.png" width="" />
+<img src="/img/x.png" width="" />
 
 
 
@@ -82,10 +82,10 @@
 -  [傲梅官网下载地址](https://www.anyviewer.cn/download.html) 本机识别码 验证码 截图给我
 -  [向日葵官网下载地址](https://sunlogin.oray.com/download?categ=personal) 本机识别码 验证码 截图给我
 
-<img src="https://picshack.net/ib/zZNZJj4JxC.png" width="" />
+<img src="/img/l.png" width="" />
 
 
-<img src="https://picshack.net/ib/jFHcu8FVZb.jpg" width="50%" /><img src="https://picshack.net/ib/PhY3Avu0qr.png" width="50%" />
+<img src="/img/lyq.png" width="50%" /><img src="/img/LC-HX1800.png" width="50%" />
 
 
 ----
