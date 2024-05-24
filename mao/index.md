@@ -14,4 +14,4 @@
 > #### 4.改好后，都接好，自己测试一下，电脑浏览器进192.168.1.1可以进要改的猫界面，就可以了
 
 > #### 5.然后下载向日葵远程，识别码，验证码点开截图发来
-https://sunlogin.oray.com/download?categ=personal
+[https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)
