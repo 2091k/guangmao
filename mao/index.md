@@ -18,8 +18,4 @@
 > #### 5.然后下载向日葵远程，识别码，验证码点开截图发来
 [https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)
 
-```mermaid
-graph TD;
-A[有网的光猫 IP是192.168.1.3] -->|连接| C[电脑]
-A -->|连接| B[要改SN光猫 192.168.1.1]
-```
+![tu1](https://img.2091k.cn/file/855fae1084852475c3bb7.png)
