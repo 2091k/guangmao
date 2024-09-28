@@ -11,6 +11,8 @@
 > #### 3.把要改的猫先恢复出厂设置，然后接到上网的猫下面，电脑也接到上网的猫下面
     这样做是把电脑与要改的猫接到同一个局域网中，才能远程改
     
+![image](https://img.oo.me.eu.org/2091k/image/main/blog/20240928153848_z3mosebsc.png)
+    
 > #### 4.改好后，都接好，自己测试一下，电脑浏览器进192.168.1.1可以进要改的猫界面，就可以了
 
 #### 推荐下载[向日葵企业版-无广告免登录](https://wwi.lanzoup.com/i2dkh1zng8rg)
@@ -20,4 +22,4 @@
 [https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)
 
 
-![tu1](https://img.2091k.cn/file/855fae1084852475c3bb7.png)
+![image](https://img.oo.me.eu.org/2091k/image/main/blog/20240928153837_f7dbszy2c0.png)
