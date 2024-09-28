@@ -31,7 +31,7 @@
   
 - 4.自己电脑进`192.168.1.200`可以进要改的猫，就OK
 
-![liu](https://img.2091k.cn/file/730ade394585126e2606c.png)
+![image](https://img.oo.me.eu.org/2091k/image/main/blog/20240928153451_0es2556o4h.png)
 
 ### 推荐下载[向日葵企业版-无广告免登录](https://wwi.lanzoup.com/i2dkh1zng8rg#pic_center)
     安装后打开选-先玩会，暂不绑定
