@@ -21,4 +21,4 @@
 > ### 查到后把截图发给我
 
 下图以山东的APP为例
-![1](https://img.2091k.cn/file/fa44d3314f38d9f8510ec.jpg)
+![image](https://img.oo.me.eu.org/2091k/image/main/blog/20240928153622_2b3nx1jnc5.jpg)
